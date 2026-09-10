@@ -1,0 +1,22 @@
+# Compiled Object and Executable Files
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.pdb
+*.ilk
+
+# VS Code / IDE settings
+.vscode/
+
+# Build and Temp Directories
+build/
+bin/
+out/
+debug/
+release/
+
+# Operating System Files
+Thumbs.db
+.DS_Store
