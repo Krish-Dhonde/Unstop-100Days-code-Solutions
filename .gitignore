@@ -7,6 +7,7 @@
 *.pdb
 *.ilk
 
+
 # VS Code / IDE settings
 .vscode/
 
